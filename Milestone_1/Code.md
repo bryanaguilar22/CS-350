@@ -8,7 +8,7 @@
 * File: Milestone-1/Code.md
 * URL: https://github.com/Eshop-project/Milestone_1/blob/master/Code.md
 * Documents: Documents/ecommerce
-* Git Repo: https://https://github.com/Eshop-project/CS-350
+* Git Repo: https://github.com/Eshop-project/CS-350
 
 
 ### Milestone 1. Project Plan Complete
